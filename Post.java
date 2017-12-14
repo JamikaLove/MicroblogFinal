@@ -3,8 +3,7 @@
 public class Post
 
 {
-
-    //public static int nextPostNum=0;    
+    
 
     public String postContent;
 
